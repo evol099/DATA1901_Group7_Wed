@@ -1,4 +1,4 @@
-
+##  Before
 - $$\frac{\text{ price diff}}{\text{\textcolor{red}{year} \textbf{lapsed}} * \textcolor{red}{{\text{room = bedroom * 1 + carspace * 0.5 }}}}$$ 
 - $\text{ room = bedroom * 1 + carspace * 0.5 }$ 
 - We can't compare houses that're different
@@ -45,4 +45,12 @@
 - Approach2. Categorize  **1 bed** data point
 - **2 bed** 
 - 
-- 
+
+## After
+1. Generate graph: (Brandon)
+   1. y axis: housing prices for a certain type
+   2. x axis: years sold
+   3. A third variable (colour): different suburds
+   4. **Aim**: investigate about the price trend for all suburbs across Sydney.
+   5. **Implementation**: dots, discrete
+      1. ![uPic-2023Y_03M_29D-09h_45m_35s](https://raw.githubusercontent.com/Brandon-Lu737/Markdown-picture-hosting/master/uPic/png-folder-uPic/uPic-2023/uPic-2023-03/uPic-2023Y_03M_29D-09h_45m_35s.png)
